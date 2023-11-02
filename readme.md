@@ -4,13 +4,13 @@
 
 Explore relationships between personal Google location based activities and calories burnt. This is intended for those aware or interested in data science techniques, as well as interested in exploring their own activity calorie data.
 
-##### Why
+### Why
 
 To find surprising insights that could inform healthier life choices, and to give personalised answers to questions such as: "In which season(s) do I tend to get more calories burnt in transit?" or "Do I tend to burn more calories in transit when commuting or other activities?". 
 
 ### How
 
-![Analysis pipeline](images\analysis_pipeline.png)
+![Analysis pipeline](images/analysis_pipeline.png)
 
 (The pipeline was generated with PlantUml: [source](https://www.plantuml.com/plantuml/uml/ZLFDZjGm3BxFKrYzy2Fr5T2Y4U824aBS20UJVDE9I9tYEB0ZnBj3gTgYQ7PdZuq_-_knUrUCrUgO3XEhHOjPgFkWc5X1ANkUNqf7lmxq_EKBwZKEP-jVKVSkSzW0JiwnMDOB1JOkiEv0_Omw9h0KaDIKIlkOyaydFiif1eZ7lzuLyn6XUf1dmv0rUavEJc2hYctE9sKffwmZhPLdD7-oxLHd-6yKnJ1ej4jt-7tD9-wXFXOiFliwRGQtYfF6sPjxK_P68tH0pryJTe4DpViPieVfX2LSvLoGJKmBGt0oPzYEFkPngeOjW7tOt5-BGSdMc9ni6bQEjvhhz3_2C4vPEL4Rzb711YeOMInw9rDY3tfu9twH5foqssbCl1PEbu9D-UxAM0UO4_ASiaQKbMuJbLMHPbtVAyiyxmTslgke58rRs7RMyut_rVRWxgd_V8uXGBuy-JzOTjfsFdfWZs-kdRIVpUtSskRRPt872NLCVm00))
 
